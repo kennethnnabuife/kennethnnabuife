@@ -1,4 +1,4 @@
-# Have you tried my latest tool - Shell-Pilot ? 🚀
+# Have you tried my terminal copilot - Shell-Pilot ? 🚀
 
 What does it do?
 
